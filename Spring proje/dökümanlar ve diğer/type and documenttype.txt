@@ -1,0 +1,5 @@
+
+
+type : [ 0 : tüzel , 1 : gerçek ]
+
+document_type : [ 0 : efatura , 1 : smm]

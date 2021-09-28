@@ -1,0 +1,38 @@
+javabi uygulama senaryosu:
+
+-->kullanıcı kayıt olur
+
+-->giris yapılır.
+
+--> bir sirket olusturulur.
+
+-->bir kasa olusturulur.
+
+-->sirket banka hesabı ve kasa  ekleyebilir,goruntuleyebilir,guncelleyebilir, silebilir.
+
+-->cari olusturulur.
+
+-->urun veya hizmet olusturulur.
+
+-->cariler banka hesabı ekleyebilir,goruntuleyebilir,guncelleyebilir, silebilir.
+
+-->urunlerı ekleyebilir,goruntuleyebilir,guncelleyebilir, silebilir
+
+-->tercihen siparis olusturulur.
+
+-->tercihen siparısten alıs veya satıs faturasına  donusturme islemi yapılabilir.
+
+-->tercihen irsaliye olusturulabilir.
+
+-->irsaliyeden satıs veya alıs faturasına donusturme islemi yapılabilir.
+
+-->satıs veya alış faturaları olusturulur/kesilir.
+
+--> tahsilat veya ödeme yapılır.
+
+-->kasadan para cıkar veya para girer.
+
+-->satın alma ve satış yapma faturaları ekleyebilir,goruntuleyebilir,guncelleyebilir, silebilir.
+
+
+
